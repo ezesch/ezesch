@@ -11,10 +11,10 @@ finding the workflow that actually solves it, not just the dashboard that
 looks good.
 
 ### What I've built
-- 🇦🇷 **[Argentina Employment Analytics](https://github.com/ezesch/argentina-employment-analytics)**
+-  **[Argentina Employment Analytics](https://github.com/ezesch/argentina-employment-analytics)**
   — Python → PostgreSQL → Power BI pipeline comparing nominal vs. inflation-adjusted
   wages across Argentina's 24 provinces (2007–2023).
-- 🌎 **[LATAM Remote Software Market Analysis](https://github.com/ezesch/latam-remote-software-market-analysis)**
+-  **[LATAM Remote Software Market Analysis](https://github.com/ezesch/latam-remote-software-market-analysis)**
   — Job market trend analysis built from real recruitment work, used to guide
   candidate sourcing strategy in LATAM's remote software market.
 
