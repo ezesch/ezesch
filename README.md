@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Ezequiel 👋
 
-<!--
-**ezesch/ezesch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst based in Argentina, working with Python, SQL, and Power BI to turn
+raw or messy data into decisions people can act on.
 
-Here are some ideas to get you started:
+I like projects that start from a real question — not just "clean this dataset" —
+and end in something someone else can actually use: a dashboard, a ranking, a
+number a team can trust.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I've built
+- 🇦🇷 **[Argentina Employment Analytics](https://github.com/ezesch/argentina-employment-analytics)**
+  — Python → PostgreSQL → Power BI pipeline comparing nominal vs. inflation-adjusted
+  wages across Argentina's 24 provinces (2007–2023).
+- 🌎 **[LATAM Remote Software Market Analysis](https://github.com/ezesch/latam-remote-software-market-analysis)**
+  — Job market trend analysis built from real recruitment work, used to guide
+  candidate sourcing strategy in LATAM's remote software market.
+
+### Tools I use
+`Python` · `SQL` (PostgreSQL) · `Power BI` (DAX, Power Query) ·
+
+### Get in touch
+[LinkedIn](https://www.linkedin.com/in/ezequiel-schmidt/)
