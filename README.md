@@ -1,11 +1,14 @@
-## Hi, I'm Ezequiel 👋
+## Hi, I'm Ezequiel 
 
-Data Analyst based in Argentina, working with Python, SQL, and Power BI to turn
-raw or messy data into decisions people can act on.
+Data Analyst with 2+ years of combined experience across operations, recruiting,
+and data analytics. I use SQL, Python, Power BI, and Excel to build data
+pipelines, automate reporting, and turn operational data into decisions
+leadership can act on.
 
-I like projects that start from a real question — not just "clean this dataset" —
-and end in something someone else can actually use: a dashboard, a ranking, a
-number a team can trust.
+What I enjoy most is being the analytical link between business stakeholders
+and technical teams — taking a vague ask, grounding it in real numbers, and
+finding the workflow that actually solves it, not just the dashboard that
+looks good.
 
 ### What I've built
 - 🇦🇷 **[Argentina Employment Analytics](https://github.com/ezesch/argentina-employment-analytics)**
@@ -16,7 +19,7 @@ number a team can trust.
   candidate sourcing strategy in LATAM's remote software market.
 
 ### Tools I use
-`Python` · `SQL` (PostgreSQL) · `Power BI` (DAX, Power Query) ·
+`Python` · `SQL` (PostgreSQL) · `Power BI` (DAX) · `Excel` · 
 
 ### Get in touch
 [LinkedIn](https://www.linkedin.com/in/ezequiel-schmidt/)
